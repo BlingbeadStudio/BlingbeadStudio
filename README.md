@@ -119,7 +119,7 @@
 
     <!-- Home Page -->
     <header id="home" class="active">
-        <h1>Welcome to Bling Beads</h1>
+        <h1>Welcome to BlingBead Studio</h1>
         <p>Sparkle in Every Strand</p>
         <a href="#" class="btn" onclick="showPage('products')">Shop Now</a>
     </header>
@@ -127,14 +127,14 @@
     <!-- About Us Section -->
     <section id="about">
         <div class="container" style="color: crimson; text-align: center; font-family: Arial, Helvetica, sans-serif;">
-            <h2>About BlingBeads Studio</h2>
+            <h2>About BlingBead Studio</h2>
             <div class="text-wrap">
                 <p> <img src="Image/LOGO.png" style="display: inline-block; width: 200px; height: 200px;">
-                    <p style="display: inline-block;">"Blingbead Studio" sendiri sudah mengandung makna yang kuat. "Bling" mengacu pada kilauan manik-manik, sedangkan "bead" adalah manik-manik itu sendiri. 
-                    Kata "studio" menunjukkan tempat di mana kreativitas dan keindahan diwujudkan. 
-                    Dengan menggabungkan logo kupu-kupu yang penuh makna dan nama usaha yang kuat, 
-                    Blingbead Studio berhasil menciptakan identitas merek yang unik dan mudah diingat. 
-                    Logo ini tidak hanya menjadi simbol visual yang menarik, tetapi juga mencerminkan nilai-nilai dan visi dari bisnis ini.
+                    <p style="display: inline-block;">"Blingbead Studio” itself already carries a strong meaning. “Bling” refers to the sparkle of the beads, while ‘bead’ is the beads themselves. 
+                        The word “studio” suggests a place where creativity and beauty are realized. 
+                        By combining a meaningful butterfly logo and a strong business name, 
+                        Blingbead Studio managed to create a unique and memorable brand identity. 
+                        The logo is not only a visually appealing symbol, but also reflects the values and vision of the business.
                 </p>
             </div>
         </div>
@@ -226,10 +226,10 @@
   <div class="container">
       <div class="product" >
           <img src="Image/Gelang.jpeg" alt="Perfume 1" onclick="window.location.href='https://www.instagram.com/blingbead.studio/'">
-          <h3>Bracellet</h3>
-          <p>Gelang manik-manik dari BlingBead Studio adalah aksesori cantik yang dirancang dengan keahlian tangan penuh detail dan ketelitian. 
-            Terbuat dari bahan manik-manik berkualitas tinggi yang berkilau, 
-            setiap gelang memberikan kesan feminim. </p>
+          <h3>Bracelet</h3>
+          <p>BlingBead Studio's beaded bracelets are beautiful accessories designed with detailed and meticulous craftsmanship. 
+            Made from high quality, sparkling beads, 
+            each bracelet gives off a feminine vibe. </p>
           <p> RP 15.000</p>
           <td><button>Add to Cart</button></td>
       </div>
@@ -237,8 +237,8 @@
       <div class="product" >
           <img src="Image/Kalung.jpeg" alt="Perfume 2" onclick="window.location.href='https://www.instagram.com/blingbead.studio/'">
           <h3>Necklace</h3>
-          <p>Blingbead Studio menghadirkan koleksi kalung manik-manik handmade yang memukau. 
-            Setiap kalung adalah karya seni unik, dirakit dengan teliti menggunakan manik-manik berkualitas tinggi.
+          <p>Blingbead Studio presents a stunning collection of handmade beaded necklaces. 
+            Each necklace is a unique work of art, meticulously assembled using high-quality beads.
         </p>
           <p>RP 20.000</p>
           <td><button>Add to Cart</button></td>
@@ -247,7 +247,7 @@
       <div class="product" >
           <img src="Image/cincin.jpeg" alt="Perfume 3" onclick="window.location.href='https://www.instagram.com/blingbead.studio/'">
           <h3>Ring</h3>
-          <p>Setiap cincin adalah karya seni unik, dibuat dengan tangan oleh pengrajin kami yang terampil. Kami menggunakan manik-manik berkualitas tinggi dengan berbagai bentuk dan warna, sehingga setiap cincin memiliki karakternya sendiri. Dapatkan tampilan yang menawan dan ungkapkan dirimu melalui perhiasan yang penuh makna.
+          <p>Each ring is a unique work of art, handcrafted by our skilled artisans. We use high-quality beads of different shapes and colors, so each ring has its own character. Get a charming look and express yourself through meaningful jewelry.
         </p>
           <p> RP 5.000</p>
           <td><button>Add to Cart</button></td>
@@ -255,8 +255,8 @@
   
       <div class="product" >
         <img src="Image/strap phone.jpeg" alt="Perfume 4" onclick="window.location.href='https://www.instagram.com/blingbead.studio/'">
-        <h3>Strap Phone</h3>
-        <p>Pilihan strap handphone dengan desain yang kreatif dan berkualitas tinggi. Dapatkan koleksi strap handphone terbaru kami dengan berbagai pilihan warna, bahan, dan motif yang sesuai dengan gaya pribadimu.
+        <h3>Phone Strap</h3>
+        <p>A selection of phone straps with creative designs and high quality. Get our latest collection of mobile phone straps with a wide selection of colors, materials, and motifs that suit your personal style.
         </p>
         <p> RP 10.000</p>
         <td><button>Add to Cart</button></td>
@@ -265,7 +265,7 @@
         <div class="product" >
           <img src="Image/gantungan knci.jpeg" alt="Perfume 3" onclick="window.location.href='https://www.instagram.com/blingbead.studio/'">
           <h3>Key Chain</h3>
-          <p>Blingbead Studio menawarkan koleksi gantungan kunci yang unik dan menarik. Setiap desainnya dibuat dengan penuh kreativitas, menggabungkan berbagai elemen menarik untuk menghasilkan aksesori yang tidak hanya fungsional, tapi juga menjadi pernyataan gaya. Bahan-bahan berkualitas tinggi dipilih untuk memastikan daya tahan dan keindahan gantungan kunci ini.
+          <p>Blingbead Studio offers a collection of unique and interesting keychains. Each design is creatively crafted, incorporating various interesting elements to produce an accessory that is not only functional, but also a style statement. High-quality materials are selected to ensure the durability and beauty of these keychains.
         </p>
           <p> RP 12.000</p>
           <td><button>Add to Cart</button></td>
@@ -281,21 +281,21 @@
   <!-- Contact Section -->
   <section id="contact">
     <div style="color: crimson;">
-        <h2>Hubungi Kami</h2>
-        <p>Silakan isi form di bawah ini untuk menghubungi kami.</p>
+        <h2>Contact Us</h2>
+        <p>Please fill out the form below to contact us.</p>
         <form>
-            <label for="nama">Nama:</label>
+            <label for="nama">Name:</label>
             <input type="text" id="nama" name="nama" required>
   
             <label for="email">Email:</label>
             <input type="email" id="email" name="email" required>
   
-            <label for="pesan">Pesan:</label>
+            <label for="pesan">Messege:</label>
             <textarea id="pesan" name="pesan" required></textarea>
   
-            <button type="submit">Kirim</button>
+            <button type="submit">Send</button>
         </form>
-        <p>Atau hubungin kami melalui: </p>
+        <p>Or contact us: </p>
         <address>
             <p>DM Instagram: @blingbead.studio</p>
             <p>Email: studioblingbead.gmail.com</p>
